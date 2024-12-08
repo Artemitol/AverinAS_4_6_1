@@ -1,0 +1,15 @@
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.AssemblyInfoInputs.cache
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.AssemblyInfo.cs
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.csproj.CoreCompileInputs.cache
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.sourcelink.json
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/bin/Debug/net9.0/AverinAS_4_6_1
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/bin/Debug/net9.0/AverinAS_4_6_1.deps.json
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/bin/Debug/net9.0/AverinAS_4_6_1.runtimeconfig.json
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/bin/Debug/net9.0/AverinAS_4_6_1.dll
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/bin/Debug/net9.0/AverinAS_4_6_1.pdb
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.dll
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/refint/AverinAS_4_6_1.dll
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.pdb
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/AverinAS_4_6_1.genruntimeconfig.cache
+/Users/artemiy/University/csharp-projects/AverinAS_4_6_1/AverinAS_4_6_1/obj/Debug/net9.0/ref/AverinAS_4_6_1.dll
